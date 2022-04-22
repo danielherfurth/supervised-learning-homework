@@ -12,15 +12,18 @@ API.
 You will be using this data to create machine learning models to classify the risk level of given loans. Specifically,
 you will be comparing the Logistic Regression model and Random Forest Classifier.
 
-## Instructions
+[//]: # (## Instructions)
 
 ### Retrieve the data
 
-In the `Generator` folder in `Resources`, there is a [GenerateData.ipynb](/Resources/Generator/GenerateData.ipynb)
-notebook that will download data from LendingClub and output two CSVs:
+[//]: # (In the `Generator` folder in `Resources`, there is a [GenerateData.ipynb]&#40;/Resources/Generator/GenerateData.ipynb&#41;)
 
-* `2019loans.csv`
-* `2020Q1loans.csv`
+[//]: # (notebook that will download data from LendingClub and output two CSVs:)
+
+[//]: # ()
+[//]: # (* `2019loans.csv`)
+
+[//]: # (* `2020Q1loans.csv`)
 
 You will be using an entire year's worth of data (2019) to predict the credit risk of loans from the first quarter of
 the next year (2020).
@@ -63,9 +66,9 @@ Fit and score the LogisticRegression and RandomForestClassifier models on the sc
 compare to each other, and to the previous results on unscaled data? How does this compare to your prediction? Write
 down your results and thoughts.
 
-## Rubric
+[//]: # (## Rubric)
 
-[Unit 19 - Supervised Machine Learning Homework Rubric](https://docs.google.com/document/d/1f_eN3TYiGqlaWL9Utk5U-P491OeWqFSiv7FIlI_d4_U/edit?usp=sharing)
+[//]: # ([Unit 19 - Supervised Machine Learning Homework Rubric]&#40;https://docs.google.com/document/d/1f_eN3TYiGqlaWL9Utk5U-P491OeWqFSiv7FIlI_d4_U/edit?usp=sharing&#41;)
 
 ### References
 
